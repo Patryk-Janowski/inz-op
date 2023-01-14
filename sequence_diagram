@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T14:19:44.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NdJD2kaR23XNpMnGOOb-" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T14:25:19.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="PDXqmsM3Zbl85RPtt6OZ" version="20.8.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
             <mxPoint x="240" y="257" as="targetPoint" />
             <mxPoint x="180" y="276" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1Vvmfo-TgwrL0h29oK80-1" value="&lt;b&gt;Rezerwacja za pomocą parkomatu&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
