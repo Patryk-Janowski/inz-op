@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T18:34:37.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6w7GnMsbDE8AQ0NwcxLZ" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T18:37:59.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="E2gXcfDsqCVDPD8Aq4QP" version="20.8.5" type="github">
   <diagram id="3LfsdCFZ0_HFXzNm2sPf" name="Page-1">
-    <mxGraphModel dx="1213" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MV49Dz-16f8Me8bk9Fit-1" value="v" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-1" value="Interfejs użytkownika uprzywilejowanego" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="780" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-3" target="MV49Dz-16f8Me8bk9Fit-8" edge="1">
