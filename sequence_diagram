@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T15:57:11.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="gkLpt0_vVxdVi6Wifa5N" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T15:58:19.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="2omDWjYJlJfmlJMQTuUk" version="20.8.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="954" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,6 +245,100 @@
         </mxCell>
         <mxCell id="RdSKdgPtge6e5BWOthyd-5" value="-uwierzytelnij_użytkownika()" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="792.5" y="680" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-6" value="Interfejs bazy danych" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1445" width="120" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-7" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="RdSKdgPtge6e5BWOthyd-6">
+          <mxGeometry x="55" y="160" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-8" value="Interfejs użytkownika" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1445" width="120" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1510" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-10" value="Płatność online" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1445" width="145" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="RdSKdgPtge6e5BWOthyd-10">
+          <mxGeometry x="66.25" y="65" width="12.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-12" value="" style="endArrow=block;html=1;rounded=0;endFill=1;" edge="1" parent="RdSKdgPtge6e5BWOthyd-10" source="RdSKdgPtge6e5BWOthyd-11" target="RdSKdgPtge6e5BWOthyd-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="75" as="sourcePoint" />
+            <mxPoint x="245" y="135" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="75" />
+              <mxPoint x="120" y="95" />
+              <mxPoint x="120" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-13" value="dokonaj_rezerewacji()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=-0.056;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="RdSKdgPtge6e5BWOthyd-8" target="RdSKdgPtge6e5BWOthyd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1540" as="sourcePoint" />
+            <mxPoint x="415" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-14" value="zwróć_status_płatności" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;dashed=1;entryX=1.164;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.002;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RdSKdgPtge6e5BWOthyd-11" target="RdSKdgPtge6e5BWOthyd-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1580" as="sourcePoint" />
+            <mxPoint x="160" y="1580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="1586" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-15" value="&lt;b&gt;Rezerwacja za pomocą &amp;nbsp;interfejsu użytkownika&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1380" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-16" value="przekieruj_system_platności_online()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1525" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-17" value="utwórz_rezerwacje()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1560" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="RdSKdgPtge6e5BWOthyd-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.5" y="1670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="1670" />
+              <mxPoint x="425" y="1670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-19" value="wygeneruj_link()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1640" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-20" value="zapisz_rezerwacje(Rezerwacja)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1580" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="RdSKdgPtge6e5BWOthyd-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="1605" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="875" y="1605" />
+              <mxPoint x="875" y="1605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-22" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="1610" width="10" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-23" value="Rezerwacja" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="1445" width="120" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-24" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="RdSKdgPtge6e5BWOthyd-23">
+          <mxGeometry x="52.5" y="140" width="15" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RdSKdgPtge6e5BWOthyd-11" target="RdSKdgPtge6e5BWOthyd-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1586" />
+              <mxPoint x="560" y="1586" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
