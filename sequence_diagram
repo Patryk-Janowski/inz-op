@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T16:31:17.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5PYkA1AvOul9ZUKrOh5I" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T16:32:33.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="upbNwnZeQKvy-wb_CXUW" version="20.8.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="910" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="brgswp8jkDusfFM4ChP5-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Zwróć informacje&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="2000" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="1995" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="brgswp8jkDusfFM4ChP5-6" value="Interfejs bazy danych" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="900" y="2205" width="120" height="265" as="geometry" />
