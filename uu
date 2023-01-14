@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T18:33:14.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="m4ndB0KkOtvGleb25162" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T18:34:37.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6w7GnMsbDE8AQ0NwcxLZ" version="20.8.5" type="github">
   <diagram id="3LfsdCFZ0_HFXzNm2sPf" name="Page-1">
-    <mxGraphModel dx="3640" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MV49Dz-16f8Me8bk9Fit-11" value="Przejdź do interfejsu użytkownika uprzywilejowanego" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-11" value="Przejdź do głównego panelu użytkownika uprzywilejowanego" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
           <mxGeometry x="293.75" y="315" width="127.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-94" target="MV49Dz-16f8Me8bk9Fit-8" edge="1">
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-105" value="Wyświetl wiadomość o braku istnienia rezerwacji na podany nr rejstracji" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
-          <mxGeometry x="460" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="460" y="610" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-107" target="MV49Dz-16f8Me8bk9Fit-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="155" y="895" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I5bm93rocd6LZtP9q9cP-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
-          <mxGeometry x="515" y="735" width="30" height="30" as="geometry" />
+          <mxGeometry x="520" y="735" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
