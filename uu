@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T17:29:38.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" version="20.8.5" etag="WTRMmSc3vI-OBL-3Xba9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T17:29:53.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" version="20.8.5" etag="Pm057fWhBmK4r7zsLyNS" type="github">
   <diagram id="3LfsdCFZ0_HFXzNm2sPf" name="Page-1">
     <mxGraphModel dx="2054" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -61,7 +61,12 @@
         <mxCell id="MV49Dz-16f8Me8bk9Fit-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-103" target="MV49Dz-16f8Me8bk9Fit-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MV49Dz-16f8Me8bk9Fit-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-103" target="MV49Dz-16f8Me8bk9Fit-107">
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-114" value="nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MV49Dz-16f8Me8bk9Fit-106">
+          <mxGeometry x="-0.111" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-108" value="tak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-103" target="MV49Dz-16f8Me8bk9Fit-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-103" value="czy istenieje rezerwacja na podany nr rejstracji" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;whiteSpace=wrap;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
