@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T15:56:28.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="H4MxXlbxDxE5UOCAsgDO" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T15:57:11.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="gkLpt0_vVxdVi6Wifa5N" version="20.8.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1138" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="32d9pUWf9q2cKr_Iwt19-5" value="Interfejs bazy danych" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" vertex="1" parent="1">
+        <mxCell id="32d9pUWf9q2cKr_Iwt19-5" value="Interfejs bazy danych" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" parent="1" vertex="1">
           <mxGeometry x="820" y="1045" width="120" height="275" as="geometry" />
         </mxCell>
         <mxCell id="1zVv3CV9KqSy-EGtZtvi-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="32d9pUWf9q2cKr_Iwt19-5" vertex="1">
           <mxGeometry x="55" y="160" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="32d9pUWf9q2cKr_Iwt19-1" value="Interfejs parkomatu" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" vertex="1" parent="1">
+        <mxCell id="32d9pUWf9q2cKr_Iwt19-1" value="Interfejs parkomatu" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" parent="1" vertex="1">
           <mxGeometry x="40" y="1045" width="120" height="275" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Interfejs użytkownika" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
@@ -210,19 +210,41 @@
         <mxCell id="1zVv3CV9KqSy-EGtZtvi-17" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="1210" width="10" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="32d9pUWf9q2cKr_Iwt19-4" value="Rezerwacja" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" vertex="1" parent="1">
+        <mxCell id="32d9pUWf9q2cKr_Iwt19-4" value="Rezerwacja" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=35;" parent="1" vertex="1">
           <mxGeometry x="597.5" y="1045" width="120" height="275" as="geometry" />
         </mxCell>
         <mxCell id="1zVv3CV9KqSy-EGtZtvi-7" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="32d9pUWf9q2cKr_Iwt19-4" vertex="1">
           <mxGeometry x="52.5" y="140" width="15" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="32d9pUWf9q2cKr_Iwt19-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1zVv3CV9KqSy-EGtZtvi-3" target="1zVv3CV9KqSy-EGtZtvi-7">
+        <mxCell id="32d9pUWf9q2cKr_Iwt19-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1zVv3CV9KqSy-EGtZtvi-3" target="1zVv3CV9KqSy-EGtZtvi-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="1186" />
               <mxPoint x="510" y="1186" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-1" value="Interfejs użytkownika&#xa;uprzywilejowanego" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="610" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="RdSKdgPtge6e5BWOthyd-1">
+          <mxGeometry x="55" y="80" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.987;exitY=0.246;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RdSKdgPtge6e5BWOthyd-1" source="RdSKdgPtge6e5BWOthyd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="130" as="targetPoint" />
+            <mxPoint x="70" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="100" />
+              <mxPoint x="130" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-4" value="&lt;b&gt;Uwierzytelnienie użytkownika uprzywiejowanego&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="560" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RdSKdgPtge6e5BWOthyd-5" value="-uwierzytelnij_użytkownika()" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="792.5" y="680" width="165" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
