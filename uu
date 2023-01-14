@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T17:20:48.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" version="20.8.5" etag="6ygtuoFrnIY41lhch6VB" type="github"><diagram id="TKkGHcWzyqh2zqGbIRmZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-14T17:27:13.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" version="20.8.5" etag="nlnSvYEDJh2igNbDVOvD" type="github">
+  <diagram id="3LfsdCFZ0_HFXzNm2sPf" name="Page-1">
+    <mxGraphModel dx="2054" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-1" value="v" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="-300" y="610" width="1160" height="1676.88" as="geometry" />
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-3" target="MV49Dz-16f8Me8bk9Fit-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-3" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
+          <mxGeometry x="660" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-8" target="MV49Dz-16f8Me8bk9Fit-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-98" value="nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MV49Dz-16f8Me8bk9Fit-96">
+          <mxGeometry x="-0.233" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-8" target="MV49Dz-16f8Me8bk9Fit-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-100" value="tak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MV49Dz-16f8Me8bk9Fit-99">
+          <mxGeometry x="-0.3196" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-8" value="uzytkownik uwierzytelniony poprawnie" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;whiteSpace=wrap;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
+          <mxGeometry x="611.25" y="180" width="122.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.75" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-11" value="przejdz do interfejsu uztkownika uprzywielejowanego" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
+          <mxGeometry x="608.75" y="370" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-55" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
+          <mxGeometry x="440" y="110" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-94" target="MV49Dz-16f8Me8bk9Fit-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-94" value="przekieruj do systemu uwierzytelniania" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
+          <mxGeometry x="870" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
