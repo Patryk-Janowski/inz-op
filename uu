@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T13:58:56.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="Vo5iaDD9zB4d9e0Q8f1q" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T13:59:16.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="ajBLdcs7J1B64O_fT_hQ" version="20.8.10" type="github">
   <diagram id="3LfsdCFZ0_HFXzNm2sPf" name="Page-1">
     <mxGraphModel dx="1306" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MV49Dz-16f8Me8bk9Fit-1" value="Interfejs użytkownika uprzywilejowanego" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+        <mxCell id="MV49Dz-16f8Me8bk9Fit-1" value="Interfejs użytkownika uprzywilejowanego (kontrolera)" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="780" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-3" target="MV49Dz-16f8Me8bk9Fit-8" edge="1">
