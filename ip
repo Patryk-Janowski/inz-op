@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T13:23:06.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="tG4bW__WxnQMJWKEQkDc" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T13:58:52.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="064fHese1MvCvcwd0Ywx" version="20.8.10" type="github">
   <diagram name="Page-1" id="zKs-p9WoGZsnZOvR_q9r">
     <mxGraphModel dx="1306" dy="1944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x1029YcHpKPLPxEwx8uc-60" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="x1029YcHpKPLPxEwx8uc-1">
-          <mxGeometry x="464.3899999999999" y="1060" width="30" height="30" as="geometry" />
+          <mxGeometry x="464.3899999999999" y="1040" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x1029YcHpKPLPxEwx8uc-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="x1029YcHpKPLPxEwx8uc-1" source="x1029YcHpKPLPxEwx8uc-48" target="x1029YcHpKPLPxEwx8uc-60">
           <mxGeometry relative="1" as="geometry">
@@ -140,6 +140,15 @@
         </mxCell>
         <mxCell id="x1029YcHpKPLPxEwx8uc-70" value="Pobierz dane od użytkownika (nr rejestracji i czas rezerwacji)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="x1029YcHpKPLPxEwx8uc-1">
           <mxGeometry x="416.56" y="200" width="144.39" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1029YcHpKPLPxEwx8uc-80" value="Brak wolnych miejsc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x1029YcHpKPLPxEwx8uc-1">
+          <mxGeometry x="150" y="441.25" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1029YcHpKPLPxEwx8uc-81" value="Płatność zakończyła się niepowodzeniem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x1029YcHpKPLPxEwx8uc-1">
+          <mxGeometry x="111.25" y="675" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1029YcHpKPLPxEwx8uc-82" value="Poprawnie dokonana rezerwacja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x1029YcHpKPLPxEwx8uc-1">
+          <mxGeometry x="390" y="1080" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
