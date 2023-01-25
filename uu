@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T18:37:59.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="E2gXcfDsqCVDPD8Aq4QP" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T13:54:54.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="wxLlO6yrfIswfnm2bBa1" version="20.8.10" type="github">
   <diagram id="3LfsdCFZ0_HFXzNm2sPf" name="Page-1">
-    <mxGraphModel dx="1213" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="MV49Dz-16f8Me8bk9Fit-103" value="czy istnieje rezerwacja na podany nr rejstracji" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;whiteSpace=wrap;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
           <mxGeometry x="270.63" y="455" width="173.75" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="I5bm93rocd6LZtP9q9cP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-105" target="I5bm93rocd6LZtP9q9cP-1">
+        <mxCell id="I5bm93rocd6LZtP9q9cP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-105" target="I5bm93rocd6LZtP9q9cP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-105" value="Wyświetl wiadomość o braku istnienia rezerwacji na podany nr rejstracji" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
@@ -97,17 +97,23 @@
         <mxCell id="MV49Dz-16f8Me8bk9Fit-107" value="Pobierz informacje o rezerwacji" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
           <mxGeometry x="110" y="620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I5bm93rocd6LZtP9q9cP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-109" target="MV49Dz-16f8Me8bk9Fit-111">
+        <mxCell id="I5bm93rocd6LZtP9q9cP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MV49Dz-16f8Me8bk9Fit-1" source="MV49Dz-16f8Me8bk9Fit-109" target="MV49Dz-16f8Me8bk9Fit-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-109" value="Wyświetl status rezerwacji" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
           <mxGeometry x="100" y="765" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MV49Dz-16f8Me8bk9Fit-111" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
-          <mxGeometry x="155" y="895" width="30" height="30" as="geometry" />
+          <mxGeometry x="342.51" y="890" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I5bm93rocd6LZtP9q9cP-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
+        <mxCell id="I5bm93rocd6LZtP9q9cP-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="MV49Dz-16f8Me8bk9Fit-1" vertex="1">
           <mxGeometry x="520" y="735" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="62Kj2bzsUvLe3Ui7GiFf-3" value="Poprawnie zwrócony status rezerwacji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
+          <mxGeometry x="242.51" y="935" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="62Kj2bzsUvLe3Ui7GiFf-2" value="Brak rezerwacji na podany nr rejstracji" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MV49Dz-16f8Me8bk9Fit-1">
+          <mxGeometry x="430" y="775" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
