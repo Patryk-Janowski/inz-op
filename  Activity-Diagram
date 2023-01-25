@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T13:49:21.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="HQf66FeKALCxicl1scNo" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T13:55:57.503Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="_WpeH65x7Reo-moYc9vd" version="20.8.10" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="2960" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
         <mxCell id="iDmaRrEx6tLsbt3sRsMt-13" value="Pobierz dane od użytkownika (nr rejestracji i czas rezerwacji)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3">
           <mxGeometry x="259.37" y="288.75" width="144.39" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iDmaRrEx6tLsbt3sRsMt-17" value="Płatność skonczyła sie niepowodzeniem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3">
+        <mxCell id="iDmaRrEx6tLsbt3sRsMt-17" value="Płatność zakończyła się niepowodzeniem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3">
           <mxGeometry x="-7.5" y="995" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iDmaRrEx6tLsbt3sRsMt-18" value="Brak wolnych miejsc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3">
